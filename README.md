@@ -1,4 +1,4 @@
-👋 Hi, I’m **Ion**
+<h3>👋 Hi, I’m Ion</h3>
 
 👨‍💻 Frontend Web Developer
 
