@@ -1,5 +1,8 @@
-<h1 align="">👋 Hi, I’m Ion</h2>
+👋 Hi, I’m **Ion**
 
-<h2 align="">👨‍💻 Frontend Web Developer</h1>
+👨‍💻 Frontend Web Developer
 
-🌱 I’m currently doing the Codecademy Frontend Career Path and enjoying the Frontend Mentor Challenges.
+🌱 I’m currently doing the Codecademy Frontend Career Path 
+
+🌱 And enjoying the Frontend Mentor Challenges
+
